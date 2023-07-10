@@ -69856,9 +69856,9 @@
   "repo": "emacs-lsp/lsp-java",
   "unstable": {
    "version": [
-    20230615,
-    614
-   ],
+    20221227,
+    1331
+    ],
    "deps": [
     "dap-mode",
     "dash",
@@ -69869,8 +69869,8 @@
     "request",
     "treemacs"
    ],
-   "commit": "2fe0ba5cb61c0defe7a1f61f759213a9c7176fbe",
-   "sha256": "1iznmpg83iw8w5rl032yvv1m933jiy9wjjliql3haybij3f6gxq7"
+   "commit": "dbe448a886e2f4fb5d3a616f4499adbe643ba7a5",
+   "sha256": "1brp8giavxh71frf920h7r4qa8ndf046aaf4kgrpzgw39ywyka68"
   },
   "stable": {
    "version": [
