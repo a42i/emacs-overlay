@@ -21835,8 +21835,8 @@
   "repo": "emacs-lsp/dap-mode",
   "unstable": {
    "version": [
-    20250131,
-    1624
+    20241216,
+    1315
    ],
    "deps": [
     "bui",
@@ -21849,8 +21849,8 @@
     "posframe",
     "s"
    ],
-   "commit": "2a5524bef1528945311dd8557b18c53d6e95fa3d",
-   "sha256": "1xsl621bax8g4aq4m890b31f4mpsh9nywxazqxnlki52mv6a4m5d"
+   "commit": "ffb795761273e1bdc3d0cd1ebdd43e36b7c08921",
+   "sha256": "1vzb3hhdlicy087faqlwm6r9kpmiypb9pacmyad7wk4i0q60ywdd"
   },
   "stable": {
    "version": [
